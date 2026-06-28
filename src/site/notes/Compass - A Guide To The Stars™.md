@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/compass-a-guide-to-the-stars/","tags":["gardenEntry"],"dg-note-properties":{}}
+---
+
+Hello there, adventurous starfarer! And welcome to the **Guide To The Stars™** by **Compass & Perimeter**. Navigating the interstellar, metadimensional pathways mapped by our expert team of Thoéthian plotters is a monumentous task. We are here to assist you! Be it finding information on the planets, systems or the many space stations of the sector, or navigating the complex social habits of different cultures. Compass has got you *covered*.
+
+We are here to make your journey as smooth, pleasant and safe as can be. We guarantee that our repository of facts, flora and fauna will meet your demands. Please do remember that plotting the sector is a task of monumental size. Therefore, if you are missing a vital piece of information, write us! We will get back to you by the first cargo drop.
+
+Starting out: do you want to know more about...
+
+1. [[Database/Linyi Beta\|Linyi Beta]]
+2. [[Cultures\|Cultures]]
+3. [[Systems\|Systems]]
+4. [[Worlds\|Worlds]]
+5. [[Space Stations\|Space Stations]]
+
