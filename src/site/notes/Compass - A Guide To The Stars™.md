@@ -16,14 +16,7 @@ We are here to make your journey as smooth, pleasant and safe as can be. We guar
 Starting out: do you want to know more about...
 
 1. [[Database/Linyi Beta\|Linyi Beta]]
-2. [[Cultures\|Cultures]]
-3. [[Systems\|Systems]]
-4. [[Worlds\|Worlds]]
-5. [[Space Stations\|Space Stations]]
-
-
-This is some normal text...
-
- 
-
-world
+2. [[Database/3 - Anthropology/Cultures\|Cultures]]
+3. [[Database/Systems\|Systems]]
+4. [[Database/Worlds\|Worlds]]
+5. [[Database/Space Stations\|Space Stations]]
