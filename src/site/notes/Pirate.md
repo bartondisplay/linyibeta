@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pirate/","tags":["Anthropology"],"dg-note-properties":{"tags":["Anthropology"],"Contains":["[[Linyi Beta/roleplaying/worldbuilding/Linyi Beta Database/Dilbura Pact\\|Dilbura Pact]]","[[Linyi Beta/roleplaying/worldbuilding/Linyi Beta Database/New Dawn Front\\|New Dawn Front]]","[[Bonny’s Corsairs]]"]}}
+{"dg-publish":true,"permalink":"/pirate/","tags":["Anthropology"],"dg-note-properties":{"tags":["Anthropology"],"Contains":["[[Bonny’s Corsairs]]"]}}
 ---
 
 
