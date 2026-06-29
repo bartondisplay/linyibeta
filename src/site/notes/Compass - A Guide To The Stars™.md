@@ -24,8 +24,6 @@ Starting out: do you want to know more about...
 
 This is some normal text...
 
-:::hidden
-This is some private text that should not be published.
-:::
+ 
 
 world
