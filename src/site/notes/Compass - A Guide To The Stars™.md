@@ -22,7 +22,7 @@ Starting out: do you want to know more about...
 5. [[Space Stations\|Space Stations]]
 
 
-This is some normal text.
+This is some normal text...
 
 :::hidden
 This is some private text that should not be published.
