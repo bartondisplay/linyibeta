@@ -24,3 +24,14 @@ There are currently 7 Core Worlds in the [[Database/Linyi Beta\|Linyi Beta]] sec
 6. [[Database/2 - Locations/2.1 Systems/0607 Corpus/Firmum\|Firmum]] - Tiberian Faith
 7. [[Database/2 - Locations/2.1 Systems/0009 Al-Bihmardi/Dunyana دنيانا\|Dunyana دنيانا]] - Fravashi Council
 
+## Secondary Worlds
+
+There are worlds that are in the same system as the Core Worlds, making trade routes and forgein materials accessible to them. These worlds are often colonies of the neighbouring Core World, although remnants of a pre-scream civilisation may exist. In order to keep a certain brevity to this list, we will keep from listing all of them. Examples are: [[Database/2 - Locations/2.1 Systems/0408 Thoé/Thoé 4\|Thoé 4]], [[Database/2 - Locations/2.1 Systems/0405 Aethra/Scalar\|Scalar]], [[Database/2 - Locations/2.1 Systems/0607 Corpus/Brachium\|Brachium]], [[Database/2 - Locations/2.1 Systems/0202 Jinzhou 津州/Kāng 康\|Kāng 康]], [[Database/2 - Locations/2.1 Systems/0205 Arnora/Anius\|Anius]].
+
+## Backwater Worlds
+
+Backwater worlds, also known as Rimworlds are worlds that, for one reason or another, have little interaction with the interstellar theatre. The name suggests that these worlds lie at the edges on the sector. A common misunderstanding. These worlds can lie right on your doorstep! The rutters marked on the [[Database/Systems\|Systems]] map represents the most traveled rutters. Regularly updated, safe and dependable. Backwater worlds are frequented less, so rutters will have to be found on a local level. Independent traders, humanitarian organisations and religeous institutions are among those who travel into these systems. Compass & Perimeter chooses to focus their efforts on the main trade routes, so backwater systems may not show on your sector map. If a recent, relevant event has reached the ears of our plotters, an exception may be made, such as the [[Database/2 - Locations/2.1 Systems/0006 Najat/0006 Najat\|Najat]] system with it's industry world [[Database/2 - Locations/2.1 Systems/0006 Najat/Asuni\|Asuni]].
+
+## Lost Worlds
+--work in progress--
+
