@@ -6,7 +6,7 @@
 
 # Space Stations
 
-While traveling, you will find yourself in situations where you will have to dock to a space station. Your fuel has ran out, you are experiencing trouble with your life support systems, you are looking for new contracts (we see you free merchants!), or you want to simply take a moment to relax from your strenuous space faring adventures. Space stations are your safe haven in the void. There are different types of stations. It's good practice to familiarize yourself with them so you don't accidentally offend a xenophobic asteroid miner foreman.
+While traveling, you will find yourself in situations where you will have to dock to a space station. Your fuel has ran out, you are experiencing trouble with your life support systems, you are looking for new contracts (we see you free merchants!) or you want to simply take a moment to relax from your strenuous space faring adventures. Space stations are your safe haven in the void. There are different types of stations. It's good practice to familiarize yourself with them so you don't accidentally offend a xenophobic asteroid miner foreman.
 
 ## Starports
 
