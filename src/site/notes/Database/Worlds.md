@@ -32,6 +32,6 @@ There are worlds that are in the same system as the Core Worlds, making trade ro
 
 Backwater worlds, also known as Rimworlds are worlds that, for one reason or another, have little interaction with the interstellar theatre. The name suggests that these worlds lie at the edges on the sector. A common misunderstanding. These worlds can lie right on your doorstep! The rutters marked on the [[Database/Systems\|Systems]] map represents the most traveled rutters. Regularly updated, safe and dependable. Backwater worlds are frequented less, so rutters will have to be found on a local level. Independent traders, humanitarian organisations and religeous institutions are among those who travel into these systems. Compass & Perimeter chooses to focus their efforts on the main trade routes, so backwater systems may not show on your sector map. If a recent, relevant event has reached the ears of our plotters, an exception may be made, such as the [[Database/2 - Locations/2.1 Systems/0006 Najat/0006 Najat\|Najat]] system with it's industry world [[Database/2 - Locations/2.1 Systems/0006 Najat/Asuni\|Asuni]].
 
-## Lost Worlds
---work in progress--
+## Tomb Worlds
 
+Tomb worlds are planets that were once inhabited by humans before the Silence. The sudden collapse after the [[Scream\|Scream]], and the inability to bring in the massive food supplies required by the planet resulted in starvation, warfare, and death. Most tomb worlds are hostile to human habitation and could not raise sufficient crops to maintain life. The few hydroponic facilities were usually destroyed in the fighting, and all that is left now are ruins. Only the most bold opportunists dare set foot on these worlds, the possibility of pre-tech treasures drawing them.
