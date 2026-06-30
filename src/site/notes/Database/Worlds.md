@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/worlds/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/database/worlds/","tags":["Lore"],"dg-note-properties":{"tags":["Lore"]}}
 ---
 
 # Worlds
@@ -34,8 +34,8 @@ Backwater worlds, also known as Rimworlds are worlds that, for one reason or ano
 
 ## Tomb Worlds
 
-Tomb worlds are planets that were once inhabited by humans before the Silence. The sudden collapse after the [[The Scream\|The Scream]], and the inability to bring in the massive food supplies required by the planet resulted in starvation, warfare, and death. Most tomb worlds are hostile to human habitation and could not raise sufficient crops to maintain life. The few hydroponic facilities were usually destroyed in the fighting, and all that is left now are ruins. Only the most bold opportunists dare set foot on these worlds, the possibility of pre-tech treasures drawing them. Compass and Perimeter strongly advises against traveling to a tomb world.
+Tomb worlds are planets that were once inhabited by humans before the Silence. The sudden collapse after the [[Database/The Scream\|Scream]], and the inability to bring in the massive food supplies required by the planet resulted in starvation, warfare, and death. Most tomb worlds are hostile to human habitation and could not raise sufficient crops to maintain life. The few hydroponic facilities were usually destroyed in the fighting, and all that is left now are ruins. Only the most bold opportunists dare set foot on these worlds, the possibility of pre-tech treasures drawing them. Compass and Perimeter strongly advises against traveling to a tomb world.
 
 ## Lost Worlds
 
-The lost worlds are worlds that are known to exist. These worlds pop up in the archives, historical trade records and as legendary artefacts. Over time, the rutters to these planets were lost or forgotten. Examples of such worlds are [[Database/2 - Locations/2.1 Systems/0708 Ragnheið/Ragnheið I\|Ragnheið I]] and [[Iaiuela I\|Iaiuela I]] and [[Database/2 - Locations/2.1 Systems/0700 Fùdong/Fùdong 浮动 I\|Fùdong 浮动 I]]. When these worlds lost contact with [[Database/Linyi Beta\|Linyi Beta]] varies. Some artefacts can date to pre-[[The Scream\|scream]] times, while others may be recently lost colonies.
+The lost worlds are worlds that are known to exist. These worlds pop up in the archives, historical trade records and as legendary artefacts. Over time, the rutters to these planets were lost or forgotten. Examples of such worlds are [[Database/2 - Locations/2.1 Systems/0708 Ragnheið/Ragnheið I\|Ragnheið I]] and [[Database/2 - Locations/2.1 Systems/0509 Iaiuela/Iaiuela I\|Iaiuela I]] and [[Database/2 - Locations/2.1 Systems/0700 Fùdong/Fùdong 浮动 I\|Fùdong 浮动 I]]. When these worlds lost contact with [[Database/Linyi Beta\|Linyi Beta]] varies. Some artefacts can date to pre-[[Database/The Scream\|scream]] times, while others may be recently lost colonies.

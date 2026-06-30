@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/systems/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/database/systems/","tags":["Lore"],"dg-note-properties":{"tags":["Lore"]}}
 ---
 
 # Systems
@@ -25,4 +25,4 @@ Hexes are used to divide the map into a logical map in order for humans to under
 [[Database/2 - Locations/2.1 Systems/0706 Caput/0706 Caput\|0706 Caput]] 
 [[Database/2 - Locations/2.1 Systems/0708 Ragnheið/0708 Ragnheið\|0708 Ragnheið]] (lost)
 
-![Screenshot 2026-06-29 at 22.05.10.png](/img/user/Screenshot%202026-06-29%20at%2022.05.10.png)
+![Screenshot 2026-06-29 at 22.05.10.png](/img/user/Images/Screenshot%202026-06-29%20at%2022.05.10.png)
