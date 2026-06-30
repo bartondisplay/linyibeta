@@ -6,7 +6,7 @@
 
 ![9da1a1fd277fffc5fd7c764fdbf0533f.jpg\|324](/img/user/Images/9da1a1fd277fffc5fd7c764fdbf0533f.jpg)
 
-There are many wonderful, beautiful, precarious and even outright deadly worlds to explore. Worlds are categorised in different ways. Compass and Perimeter is here to help you make sense of it. Our expert anthropologists of Thoéthian make will help you on your way. Let's start with a simple classification: *Core World or not!*
+There are many wonderful, precarious and even outright deadly worlds to explore. Worlds are categorised in different ways. Compass and Perimeter is here to help you make sense of it. Our expert anthropologists of Thoéthian make will help you on your way. Let's start with a simple classification: *Core World or not!*
 
 ## Core Worlds
 
