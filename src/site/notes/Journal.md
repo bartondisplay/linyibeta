@@ -3,7 +3,7 @@
 ---
 
 
-![arc2 landing page small.jpg](/img/user/Images/arc2%20landing%20page%20small.jpg)
+![arc2 landing page 140dpi.jpg](/img/user/Images/arc2%20landing%20page%20140dpi.jpg)
 | File                   | Session Title            | Act | Date Played    | Cycle | Players                      |
 | ---------------------- | ------------------------ | --- | -------------- | ----- | ---------------------------- |
 | [[Sessions/53\|53]] | Maybe They Just Idiots?! | 2   | April 19, 2026 | 24.25 | Mo, Harry, Meeri             |
