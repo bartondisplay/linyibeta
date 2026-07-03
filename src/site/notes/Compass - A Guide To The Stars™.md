@@ -17,5 +17,5 @@ Starting out: do you want to know more about...
 1. [[Database/Linyi Beta\|Linyi Beta]]
 2. [[Database/Cultures\|Cultures]]
 3. [[Database/Systems\|Systems]]
-4. [[Database/Worlds\|Worlds]]
+4. [[Worlds\|Worlds]]
 5. [[Database/Space Stations\|Space Stations]]
