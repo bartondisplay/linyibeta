@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/database/0-factions-and-subfactions/trader-unions/dark-child-tribe/","tags":["Anthropology","sort"],"dg-note-properties":{"tags":["Anthropology","sort"],"Contained In":["[[0405 Aethra]]","[[Database/2 - Locations/2.1 Systems/0405 Aethra/Miandar\|Miandar]]"],"Contains":["[[Database/1 - NPCs/Lyris (Ly) Gavras/Lyris Gavras\|Lyris Gavras]]"],"Relation":["[[Trader Unions]]"]}}
 ---
 
-> [!info] Dark Child Tribe
+# Dark Child Tribe
+
+> [!info] Shortform
 > This tribe is originally from one of [[Database/2 - Locations/2.1 Systems/0405 Aethra/Bayron\|Bayron's]] moons [[Database/2 - Locations/2.1 Systems/0405 Aethra/Miandar\|Miandar]]. Their pale skin, light hair and peculiar cultural mannerisms has them perceived as one of the more eccentric [[Database/3 - Anthropology/Tribe\|tribes]] in the [[Database/2 - Locations/2.1 Systems/0405 Aethra/0405 Aethra\|Aethra]] system.
 
 ![Screenshot 2026-07-03 at 18.19.28.png\|372](/img/user/Images/Screenshot%202026-07-03%20at%2018.19.28.png)
