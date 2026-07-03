@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/database/space-stations/","dg-note-properties":{}}
 ---
 
-# ![9e73a1a6bcfa9bd3363c4a7bca0efa0c.jpg](/img/user/Images/9e73a1a6bcfa9bd3363c4a7bca0efa0c.jpg)
+ ![9e73a1a6bcfa9bd3363c4a7bca0efa0c.jpg](/img/user/Images/9e73a1a6bcfa9bd3363c4a7bca0efa0c.jpg)
 
 # Space Stations
 
