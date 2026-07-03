@@ -24,7 +24,7 @@ In response to the encroachment of the [[Database/0 - Factions & Subfactions/Jin
 | Amario                           | Free Operator Assembly | Arnora        |
 | Bayron's Blood                   | Progressive Assembly   | Aethra        |
 | Bulkheads                        | Central Collective     | Arnora        |
-| [[Database/0 - Factions & Subfactions/Trader Unions/0.0.1 Tribes/Dark Child Tribe\|Dark Child]] | Free Operator Assembly | Aethra        |
+| [[Database/0 - Factions & Subfactions/Trader Unions/Dark Child Tribe\|Dark Child]] | Free Operator Assembly | Aethra        |
 | Foamheart                        | New Motions            | Aethra        |
 | Gavras                           | New Motions            | Aethra        |
 | Gooddeeds                        | New Motions            | Arnora        |
