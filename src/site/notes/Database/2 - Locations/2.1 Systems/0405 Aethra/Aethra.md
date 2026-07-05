@@ -27,7 +27,7 @@
 | [[Database/2 - Locations/2.1 Systems/0405 Aethra/Aethra Dead Gate\|Aethra Dead Gate]]       | Giant relic of the past.                                             |
 |                            |                                                                      |
 
-````markdown
+
 ```leaflet
 id: Aethra Map
 image: [AethraMap.png](/img/user/Images/AethraMap.png)
@@ -36,10 +36,9 @@ lat: 50
 long: 50
 minZoom: 1
 maxZoom: 10
-defaultZoom: 5
-unit: meters
+defaultZoom: 7.5
+unit: kilometers
 scale: 1
 marker: default, 39.983334, -82.983330, [[Note]]
-darkMode: true
+darkMode: false
 ```
-````
