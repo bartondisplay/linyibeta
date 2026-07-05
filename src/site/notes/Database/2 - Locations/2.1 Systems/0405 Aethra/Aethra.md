@@ -16,6 +16,7 @@
 | -------------- | ---- |
 | Star Type      |      |
 | Active Planets | 4    |
+```
 <!DOCTYPE html><html><head><meta charset="utf-8"><title>Aethra Map Preview</title></head><body style="background:#0b0b0b;margin:0;padding:20px;"><div class="aethra-map-wrap" style="position:relative;width:100%;max-width:600px;margin:0 auto;border:1px solid #333;border-radius:8px;overflow:hidden;background:#0b0b0b;">
   <div style="position:absolute;top:8px;right:8px;z-index:2;display:flex;flex-direction:column;gap:4px;">
     <button id="aethra-zoom-in" style="width:32px;height:32px;background:#111;color:#0ff;border:1px solid #0ff;border-radius:4px;font-size:18px;cursor:pointer;">+</button>
@@ -86,6 +87,7 @@
   }, {passive:false});
 })();
 </script>
+```
 # Places of Note
 
 | Name                       | Description                                                          |
