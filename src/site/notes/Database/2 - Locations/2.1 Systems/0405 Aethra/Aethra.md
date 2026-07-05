@@ -25,3 +25,21 @@
 | [[Database/2 - Locations/2.1 Systems/0405 Aethra/Warpheart Astrastation\|Warpheart Astrastation]] | [[Database/Space Stations#Starports\|Starport]], secure site, pleasure barge. |
 | [[Database/2 - Locations/2.1 Systems/0405 Aethra/006 Stantar's Rift\|006 Stantar's Rift]]     | Asteroid field and [[Database/0 - Factions & Subfactions/Trader Unions/Dark Child Tribe\|Dark Child]] compound.        |
 | [[Database/2 - Locations/2.1 Systems/0405 Aethra/Aethra Dead Gate\|Aethra Dead Gate]]       | Giant relic of the past.                                             |
+|                            |                                                                      |
+
+````markdown
+```leaflet
+id: Aethra Map
+image: [AethraMap.png](/img/user/Images/AethraMap.png)
+height: 500px
+lat: 50
+long: 50
+minZoom: 1
+maxZoom: 10
+defaultZoom: 5
+unit: meters
+scale: 1
+marker: default, 39.983334, -82.983330, [[Note]]
+darkMode: true
+```
+````
