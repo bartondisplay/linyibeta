@@ -33,4 +33,15 @@ body {
     .sessions-table .dataview.table-view-table tbody tr:nth-child(even) {
         background-color: #1e1e1e;
     }
+    .sessions-table .dataview.table-view-table th,
+    .sessions-table .dataview.table-view-table td {
+        min-width: 100px;
+        white-space: nowrap;
+    }
+
+    .sessions-table .dataview.table-view-table th:nth-child(7),
+    .sessions-table .dataview.table-view-table td:nth-child(7) {
+        min-width: 200px;
+        white-space: normal;
+}
 }
