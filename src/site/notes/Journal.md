@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/journal/","dg-note-properties":{"cssclasses":["sessions-table"]}}
+{"dg-publish":true,"permalink":"/journal/","dg-note-properties":{"cssclasses":["sessions-table"],"hideGraph":"true"}}
 ---
 
 
