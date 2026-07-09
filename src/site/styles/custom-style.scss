@@ -1,36 +1,53 @@
 body {
-    .sessions-table .block-language-dataview.table-wrapper {
-        width: 100vw;
-        margin-left: calc(-50vw + 50%);
-        overflow-x: auto;
-    }
-    .sessions-table .dataview.table-view-table {
-        font-size: 12px;
-        width: 100%;
-    }
-    .sessions-table .dataview.table-view-table tbody tr td {
-        font-size: 12px;
-    }
-    .sessions-table .dataview.table-view-table tbody tr:nth-child(odd) {
-        background-color: #2a2a2a;
-    }
-    .sessions-table .dataview.table-view-table tbody tr:nth-child(even) {
-        background-color: #1e1e1e;
-    }
-    .sessions-table .dataview.table-view-table th,
-    .sessions-table .dataview.table-view-table td {
-        min-width: 100px;
-        white-space: nowrap;
-    }
-    .sessions-table .dataview.table-view-table th:nth-child(7),
-    .sessions-table .dataview.table-view-table td:nth-child(7) {
-        min-width: 200px;
-        white-space: normal;
-    }
+    /***
+      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
+      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+   ***/
+    //  background-color: white;
+    //  .content {
+    //   font-size: 14px;
+    //  }
+    //  h1 {
+    //   color: black;
+    //  }
 }
 
 body.sessions-table main.content {
     max-width: 100% !important;
     width: 100% !important;
     padding: 0 20px !important;
+}
+
+body.sessions-table .block-language-dataview.table-wrapper {
+    width: 100%;
+    overflow-x: auto;
+}
+
+body.sessions-table .dataview.table-view-table {
+    font-size: 12px;
+    width: 100%;
+}
+
+body.sessions-table .dataview.table-view-table tbody tr td {
+    font-size: 12px;
+}
+
+body.sessions-table .dataview.table-view-table tbody tr:nth-child(odd) {
+    background-color: #2a2a2a;
+}
+
+body.sessions-table .dataview.table-view-table tbody tr:nth-child(even) {
+    background-color: #1e1e1e;
+}
+
+body.sessions-table .dataview.table-view-table th,
+body.sessions-table .dataview.table-view-table td {
+    min-width: 100px;
+    white-space: nowrap;
+}
+
+body.sessions-table .dataview.table-view-table th:nth-child(7),
+body.sessions-table .dataview.table-view-table td:nth-child(7) {
+    min-width: 200px;
+    white-space: normal;
 }
