@@ -44,7 +44,9 @@ body {
         min-width: 200px;
         white-space: normal;
     }    
-    .sessions-table .content {
-    max-width: 90vw;
-    }    
+    .sessions-table main.content {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 0 20px !important;
+}
 }
