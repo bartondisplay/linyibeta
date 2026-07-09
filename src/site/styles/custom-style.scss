@@ -43,5 +43,8 @@ body {
     .sessions-table .dataview.table-view-table td:nth-child(7) {
         min-width: 200px;
         white-space: normal;
-}
+    }    
+    .sessions-table .content {
+    max-width: 90vw;
+    }    
 }
