@@ -6,7 +6,7 @@
 
 Hexes are used to divide the map into a logical map in order for humans to understand. This results in the naming convention where systems carry a _hex name_ and a regular name. The main systems of the sector are:
 
-[[Database/2 - Locations/2.1 Systems/0006 Najat/0006 Najat\|0006 Najat]]
+[[Database/2 - Locations/2.1 Systems/0006 Najat/Najat\|0006 Najat]]
 [[Database/2 - Locations/2.1 Systems/0009 Al-Bihmardi/0009 Al-Bihmardi\|0009 Al-Bihmardi]]
 [[Database/2 - Locations/2.1 Systems/0201 Taiyuan 太原/0201 Taiyuan 太原\|0201 Taiyuan 太原]]
 [[Database/2 - Locations/2.1 Systems/0202 Jinzhou 津州/0202 Jinzhou 津州\|0202 Jinzhou 津州]]
@@ -17,7 +17,7 @@ Hexes are used to divide the map into a logical map in order for humans to under
 [[Database/2 - Locations/2.1 Systems/0303 Xiāo-Lán 小蓝/0303 Xiāo-Lán 小蓝\|0303 Xiāo-Lán 小蓝]]
 [[Database/2 - Locations/2.1 Systems/0305 Ouranoi/0305 Ouranoi\|0305 Ouranoi]]
 [[Database/2 - Locations/2.1 Systems/0401 Haimon 海门/0401 Haimon 海门\|0401 Haimon 海门]] 
-[[Database/2 - Locations/2.1 Systems/0405 Aethra/0405 Aethra\|0405 Aethra]]
+[[Database/2 - Locations/2.1 Systems/0405 Aethra/Aethra\|0405 Aethra]]
 [[Database/2 - Locations/2.1 Systems/0408 Thoé/0408 Thoé\|0408 Thoé]]
 [[Database/2 - Locations/2.1 Systems/0509 Iaiuela/0509 Iaiuela\|0509 Iaiuela]] (lost)  
 [[Database/2 - Locations/2.1 Systems/0607 Corpus/0607 Corpus\|0607 Corpus]]

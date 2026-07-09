@@ -1,12 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/journal/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/journal/","dg-note-properties":{"cssclasses":["sessions-table"]}}
 ---
 
 
 ![arc2 landing page 140dpi.jpg](/img/user/Images/arc2%20landing%20page%20140dpi.jpg)
-| File                   | Title                    | Act | Date           | Cycle | Players                      | Link                                     |
-| ---------------------- | ------------------------ | --- | -------------- | ----- | ---------------------------- | ---------------------------------------- |
-| [[Sessions/53\|53]] | Maybe They Just Idiots?! | 2   | April 19, 2026 | 24.25 | Mo, Harry, Meeri             | [[Logs/Player Summary#Session 53\|→]] |
-| [[Sessions/01\|01]] | The Beginning            | 1   | May 28, 2023   | 1     | Mo, Harry, Meeri, Rob, Jorin | \-                                       |
+
+| File                   | Title                       | Act | Date            | Cycle | Players                  | Short                                                          | Mentioned                                                                                                                                             | Link                                     |
+| ---------------------- | --------------------------- | --- | --------------- | ----- | ------------------------ | -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| [[Sessions/53\|53]] | Maybe They Just Idiots?!    | 2   | April 19, 2026  | 24.25 | Harry, Meeri, Mo         | \-                                                             | \-                                                                                                                                                    | [[Logs/Player Summary#Session 53\|→]] |
+| [[Sessions/06\|06]] | A-Maze-Ing Deals!!          | 1   | August 27, 2023 | 4.5   | Harry, Jorin, Meeri, Rob | shopping, taimur buys coyey with lucas' money                  | [[Rahak\|Rahak]]                                                                                                                                   | \-                                       |
+| [[Sessions/05\|05]] | Our Guardian Acid Angel     | 1   | August 10, 2023 | 3.4   | Harry, Jorin, Meeri, Rob | \-                                                             | [[Database/1 - NPCs/Kind\|Kind]], [[Database/0 - Factions & Subfactions/Phoebe Gavras\|Phoebe Gavras]], [[Database/1 - NPCs/Sawyer\|Sawyer]] | \-                                       |
+| [[Sessions/04\|04]] | Escape Into the Maze        | 1   | July 09, 2023   | 3     | Harry, Meeri, Rob, Jorin | \-                                                             | \-                                                                                                                                                    | \-                                       |
+| [[Sessions/03\|03]] | Priory Predicament          | 1   | June 22, 2023   | 2.3   | Harry, Jorin, Meeri, Rob | return to bayron city, friar combat, deaths, jasmine panics    | [[Database/1 - NPCs/Monsignor Dodoni\|Monsignor Dodoni]], [[Jasmine\|Jasmine]]                                                                  | \-                                       |
+| [[Sessions/02\|02]] | Subaquatic Shuttle Surprise | 1   | June 11, 2023   | 1     | Harry, Jorin, Meeri, Rob | jail, expedition, arrival at shuttle, cetaphyx, meeting sawyer | [[Database/1 - NPCs/Sawyer\|Sawyer]], [[Database/1 - NPCs/Jace\|Jace]], [[Database/1 - NPCs/Mother Nikaia\|Mother Nikaia]]                   | \-                                       |
+| [[Sessions/01\|01]] | The Beginning               | 1   | May 28, 2023    | 1     | Harry, Jorin, Meeri, Rob | escape from bayron planetary starport                          | \-                                                                                                                                                    | \-                                       |
 
 { .block-language-dataview}

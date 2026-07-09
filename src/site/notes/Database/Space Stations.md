@@ -20,7 +20,7 @@ A Starport is of such a scale that it often fulfills multiple duties: habitation
 | -------------------------- | -------------------- |
 | [[Database/2 - Locations/2.5 Places/Autonomex Astral Plaza\|Autonomex Astral Plaza]] | [[Database/2 - Locations/2.1 Systems/0208 Billa-Thver/0208 Billa-Thver\|0208 Billa-Thver]] |
 | [[Database/2 - Locations/2.1 Systems/0205 Arnora/Starport Arnora\|Starport Arnora]]        | [[Database/2 - Locations/2.1 Systems/0205 Arnora/0205 Arnora\|0205 Arnora]]      |
-| [[Database/2 - Locations/2.1 Systems/0405 Aethra/Warpheart Astrastation\|Warpheart Astrastation]] | [[Database/2 - Locations/2.1 Systems/0405 Aethra/0405 Aethra\|0405 Aethra]]      |
+| [[Database/2 - Locations/2.1 Systems/0405 Aethra/Warpheart Astrastation\|Warpheart Astrastation]] | [[Database/2 - Locations/2.1 Systems/0405 Aethra/Aethra\|Aethra]]      |
 
 
 ## Habitation Stations

@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/database/0-factions-and-subfactions/trader-unions/dark-child-tribe/","tags":["Anthropology","sort"],"dg-note-properties":{"tags":["Anthropology","sort"],"Contained In":["[[0405 Aethra]]","[[Database/2 - Locations/2.1 Systems/0405 Aethra/Miandar\|Miandar]]"],"Contains":["[[Database/1 - NPCs/Lyris (Ly) Gavras/Lyris Gavras\|Lyris Gavras]]"],"Relation":["[[Trader Unions]]"]}}
+{"dg-publish":true,"permalink":"/database/0-factions-and-subfactions/trader-unions/dark-child-tribe/","tags":["Anthropology","sort"],"dg-note-properties":{"tags":["Anthropology","sort"],"Contained In":["[[Aethra]]","[[Database/2 - Locations/2.1 Systems/0405 Aethra/Miandar\|Miandar]]"],"Contains":["[[Database/1 - NPCs/Lyris (Ly) Gavras/Lyris Gavras\|Lyris Gavras]]"],"Relation":["[[Trader Unions]]"]}}
 ---
 
 # Dark Child Tribe
 
 > [!info] Shortform
-> This tribe is originally from one of [[Database/2 - Locations/2.1 Systems/0405 Aethra/Bayron\|Bayron's]] moons [[Database/2 - Locations/2.1 Systems/0405 Aethra/Miandar\|Miandar]]. Their pale skin, light hair and peculiar cultural mannerisms has them perceived as one of the more eccentric [[Database/3 - Anthropology/Tribe\|tribes]] in the [[Database/2 - Locations/2.1 Systems/0405 Aethra/0405 Aethra\|Aethra]] system.
+> This tribe is originally from one of [[Database/2 - Locations/2.1 Systems/0405 Aethra/Bayron\|Bayron's]] moons [[Database/2 - Locations/2.1 Systems/0405 Aethra/Miandar\|Miandar]]. Their pale skin, light hair and peculiar cultural mannerisms has them perceived as one of the more eccentric [[Database/3 - Anthropology/Tribe\|tribes]] in the [[Database/2 - Locations/2.1 Systems/0405 Aethra/Aethra\|Aethra]] system.
 
 ![Screenshot 2026-07-03 at 18.19.28.png\|372](/img/user/Images/Screenshot%202026-07-03%20at%2018.19.28.png)
 *Dark Child woman portrait*
 # History
-Tribal legends speak of a honorable spy, [[Itsala\|Itsala]], who went into hiding on [[Database/2 - Locations/2.1 Systems/0405 Aethra/Miandar\|Miandar]] after publishing scathing information about a [[Database/2 - Locations/2.1 Systems/0405 Aethra/Bayron\|Bayroni]] tyrant leader, sometime in the [[Golden Age\|Golden Age]] of [[Database/5 - Flora & Fauna/Human\|Humanity's]] expansion into [[Database/Linyi Beta\|Linyi Beta]]. Itsala exposed this deep-rooted corruption to the [[Database/2 - Locations/2.1 Systems/0405 Aethra/0405 Aethra\|Aethran]] people, which ultimately prevented the use of a [[Doomsday Weapon\|doomsday weapon]] in the crucial trade hub. 
+Tribal legends speak of a honorable spy, [[Itsala\|Itsala]], who went into hiding on [[Database/2 - Locations/2.1 Systems/0405 Aethra/Miandar\|Miandar]] after publishing scathing information about a [[Database/2 - Locations/2.1 Systems/0405 Aethra/Bayron\|Bayroni]] tyrant leader, sometime in the [[Golden Age\|Golden Age]] of [[Database/5 - Flora & Fauna/Human\|Humanity's]] expansion into [[Database/Linyi Beta\|Linyi Beta]]. Itsala exposed this deep-rooted corruption to the [[Database/2 - Locations/2.1 Systems/0405 Aethra/Aethra\|Aethran]] people, which ultimately prevented the use of a [[Doomsday Weapon\|doomsday weapon]] in the crucial trade hub. 
 
 After the [[The Scream\|catastrophe of 2665]], in which the entire interstellar infrastructure of human civilisation collapsed, the population of the Dark Child tribe on [[Database/2 - Locations/2.1 Systems/0405 Aethra/Miandar\|Miandar]] was decimated. A sizeable enclave on [[Database/2 - Locations/2.1 Systems/0405 Aethra/Bayron\|Bayron]] survived and made it their mission to return to their ancestral home. Dark Child contributions to the revival of [[Spike Drive\|spike drive technology]] is significant, with several leading scientists from other Bayroni tribes citing Dark Child contributions in great number in published journals. As of yet, they are the only tribe to have a permanent base on the moon.
 
@@ -24,7 +24,7 @@ A traditional sub-group who practice their faith by the [[Edict of Itsala\|Edict
 #### Void Speakers
 A sect of elite ritualists whose main concern is the stability of the Dark Child bloodline. Most famously known for their extreme altering of their physical appearance, which is often hidden behind elaborate garbs as their form is only to be witnessed by their god [[Database/8 - Lore/Zidis\|Zidis]].
 #### The Pale
-A sub-group of traditional ritualists who live in small temples across [[Database/2 - Locations/2.1 Systems/0405 Aethra/0405 Aethra\|Aethra]]. These pious tribesmen are often supported purely by their peers, who pay them tribute with food, credits and other offerings, so that the Pale may live in full reverence to [[Itsala\|Itsala]].
+A sub-group of traditional ritualists who live in small temples across [[Database/2 - Locations/2.1 Systems/0405 Aethra/Aethra\|Aethra]]. These pious tribesmen are often supported purely by their peers, who pay them tribute with food, credits and other offerings, so that the Pale may live in full reverence to [[Itsala\|Itsala]].
 
 ### Noteable People
 [[Nahia\|Mother Nahia]] *- current leader of the Dark Child Tribe*
