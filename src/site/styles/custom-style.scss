@@ -11,3 +11,18 @@ body {
     //   color: black;
     //  }
 }
+.sessions-table .dataview.table-view-table {
+    font-size: 12px;
+}
+
+.sessions-table .dataview.table-view-table tbody tr td {
+    font-size: 12px;
+}
+
+.sessions-table .dataview.table-view-table tbody tr:nth-child(odd) {
+    background-color: #2a2a2a;
+}
+
+.sessions-table .dataview.table-view-table tbody tr:nth-child(even) {
+    background-color: #1e1e1e;
+}
