@@ -38,3 +38,8 @@ body:has(.dataview.table-view-table) .dataview.table-view-table tbody tr:nth-chi
 body:has(.dataview.table-view-table) .dataview.table-view-table tbody tr:nth-child(even) {
     background-color: #1e1e1e;
 }
+body:has(.dataview.table-view-table) main.content img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
