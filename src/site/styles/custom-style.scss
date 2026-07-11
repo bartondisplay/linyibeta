@@ -11,24 +11,25 @@ body {
     //   color: black;
     //  }
 
-    .sessions-table .dataview.table-view-table {
-        font-size: 10px;
+    .sessions-table {
+        --dg-content-max-width: 1000px;
+        width: 1000px;
+    }
+
+    .sessions-table  .dataview.table-view-table {
+        font-size: 11px;
         width: 100vw;
-        margin-left: calc(-50vw + 50%);
     }
 
-    .sessions-table .dataview.table-view-table tbody tr td {
-        font-size: 10px;
+    .sessions-table  .dataview.table-view-table tbody tr td {
+        font-size: 11px;
     }
 
-    .sessions-table .dataview.table-view-table tbody tr:nth-child(odd) {
+    .sessions-table  .dataview.table-view-table tbody tr:nth-child(odd) {
         background-color: #2a2a2a;
     }
 
-    .sessions-table .dataview.table-view-table tbody tr:nth-child(even) {
+    .sessions-table  .dataview.table-view-table tbody tr:nth-child(even) {
         background-color: #1e1e1e;
-    }
-    .journal {
-    --dg-content-max-width: 1000px;
-    }    
+    } 
 }
