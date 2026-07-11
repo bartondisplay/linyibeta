@@ -14,6 +14,9 @@ body {
 
 body:has(.dataview.table-view-table) main.content {
     --dg-content-max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
 }
 
 body:has(.dataview.table-view-table) .block-language-dataview.table-wrapper {
