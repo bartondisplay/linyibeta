@@ -9,11 +9,11 @@
 
 
 ##### 1140/05/14   /   3320/04/20
-耕作日  /  Boon
+######  耕作日  /  Boon
 Spent the day with Song. Walked around the Mazeway. Large power outage as we went in to the holo theatre for our anniversary. Bummer...
 
 ##### 1440/06/03   /   3320/04/27
-集日  /  Sept
+######  集日  /  Sept
 Witnessing more power outages. Song Ya has a nagging feeling something's up with the grid. I've also been picking up some rumours that the upper districts aren't facing difficulties. Unsurprising, but worth investigating.
 
 
