@@ -13,5 +13,5 @@ The peoples of Linyi Beta worship an abundance of Gods and follow different prin
 
 | **Name** | **God(s)**   | **Principles**                       | **Location(s)**              | Groups                            |
 | -------- | ------------ | ------------------------------------ | ---------------------------- | --------------------------------- |
-| -        | [[Database/8 - Lore/Bhasmael\|Bhasmael]] | Perseverance, Discipline, Acceptance | [[Database/2 - Locations/2.1 Systems/0405 Aethra/Aethra\|Aethra]], Multiple Sectors | [[Database/3 - Anthropology/Fellowship of the Ashen Voice\|Fellowship of the Ashen Voice]] |
-| -        | [[Database/8 - Lore/Qydite\|Qydite]]   |                                      |                              | [[Database/3 - Anthropology/Qydite’s Friary\|Qydite’s Friary]]               |
+| -        | [[Database/8 - Lore/Bhasmael\|Bhasmael]] | Perseverance, Discipline, Acceptance | [[Database/2 - Locations/2.1 Systems/0405 Aethra/Aethra\|Aethra]], Multiple Systems | [[Database/3 - Anthropology/Fellowship of the Ashen Voice\|Fellowship of the Ashen Voice]] |
+| -        | [[Database/8 - Lore/Qydite\|Qydite]]   | Mercy, Forgiveness, Care             | [[Database/2 - Locations/2.1 Systems/0405 Aethra/Bayron\|Bayron]], Multiple Systems | [[Database/3 - Anthropology/Qydite’s Friary\|Qydite’s Friary]]               |
