@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/0-factions-and-subfactions/trader-unions/dark-child-tribe/","tags":["Anthropology","sort"],"dg-note-properties":{"tags":["Anthropology","sort"],"Contained In":["[[Aethra]]","[[Database/2 - Locations/2.1 Systems/0405 Aethra/Miandar\|Miandar]]"],"Contains":["[[Database/1 - NPCs/Lyris (Ly) Gavras/Lyris Gavras\|Lyris Gavras]]"],"Relation":["[[Trader Unions]]"]}}
+{"dg-publish":true,"permalink":"/database/0-factions-and-subfactions/trader-unions/dark-child-tribe/","tags":["Anthropology","sort"],"dg-note-properties":{"tags":["Anthropology","sort"],"Contained In":["[[Database/2 - Locations/2.1 Systems/0405 Aethra/Aethra]]","[[Database/2 - Locations/2.1 Systems/0405 Aethra/Miandar]]"],"Contains":["[[Database/1 - NPCs/Lyris (Ly) Gavras/Lyris Gavras]]"],"Relation":["[[Database/0 - Factions & Subfactions/Trader Unions/Trader Unions]]"]}}
 ---
 
 # Dark Child Tribe

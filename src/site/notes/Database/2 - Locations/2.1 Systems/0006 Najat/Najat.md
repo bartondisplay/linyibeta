@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/2-locations/2-1-systems/0006-najat/najat/","tags":["System"],"dg-note-properties":{"Contained In":["[[Database/0 - Factions & Subfactions/Trader Unions/Trader Unions\|Trader Unions]]"],"Contains":["[[Asuni]]","[[Daya]]","[[Kwata]]","[[Na Uku]]","[[City of Ships]]"],"tags":["System"]}}
+{"dg-publish":true,"permalink":"/database/2-locations/2-1-systems/0006-najat/najat/","tags":["System"],"dg-note-properties":{"Contained In":["[[Database/0 - Factions & Subfactions/Trader Unions/Trader Unions]]"],"Contains":["[[Database/2 - Locations/2.1 Systems/0006 Najat/Asuni]]","[[Database/2 - Locations/2.1 Systems/0006 Najat/Daya]]","[[Database/2 - Locations/2.1 Systems/0006 Najat/Kwata]]","[[Database/2 - Locations/2.1 Systems/0006 Najat/Na Uku]]","[[Database/2 - Locations/2.1 Systems/0006 Najat/City of Ships]]"],"tags":["System"]}}
 ---
 
 # 0006 Najat

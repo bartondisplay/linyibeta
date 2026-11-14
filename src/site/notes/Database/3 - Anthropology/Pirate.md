@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/database/3-anthropology/pirate/","tags":["Anthropology"],"dg-note-properties":{"tags":["Anthropology"],"Contains":["[[Bonny’s Corsairs]]"]}}
+{"dg-publish":true,"permalink":"/database/3-anthropology/pirate/","tags":["Anthropology"],"dg-note-properties":{"tags":["Anthropology"],"Contains":["[[Database/3 - Anthropology/3.2 Outlaws/Bonny’s Corsairs/Bonny’s Corsairs]]"]}}
 ---
 
 
